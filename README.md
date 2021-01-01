@@ -1,3 +1,3 @@
 # calculator 
-![alt Calculator](hhttps://github.com/devtalhaouy/calculator/blob/main/calculator.png)
+![alt Calculator](https://github.com/devtalhaouy/calculator/blob/main/calculator.png)
 
